@@ -1,3 +1,5 @@
+### TAREA 3                
+
 ## Nael Fontaine
 
 ### Rol que me gustaría desempeñar
@@ -15,3 +17,14 @@ También destaco mi pasión por la ingeniería de software y mi energía, que me
 Para ser un mejor integrante de equipo, considero que debo mejorar mi comunicación en español, especialmente en contextos técnicos, para poder expresar mis ideas con mayor claridad y fluidez.
 
 Además, quiero trabajar en mi gestión del tiempo, para organizar mejor mis tareas, estimar de manera más precisa el esfuerzo necesario y cumplir con los plazos de forma más eficiente.
+
+### HERRERA PARRA SANTIAGO ###
+
+### Pregunta 1             ###
+El rol que me gustaría desempeñar es el de mediador entre lo que necesita y quiere el cliente o usuario y lo que se manifiesta en el proyecto, pues considero que sé escuchar y ponerme en la perspectiva de quienes usarán nuestros proyectos.
+
+### Pregunta 2             ###
+Considero que mis fortalezas para aportar a un equipo es como base tanto mi competencia a la hora de escribir código como mis aportes a la hora de diseñar y optimizar la estructuración del proyecto, adoptando los aportes de mis compañeros.
+
+### Pregunta 3             ###
+Diría que mi principal debilidad es aveces no tener claro el como integrar mi codigo o el de mis compañeros al codigo principal, y la agilidad a la hora de hallár errores en sistemas complejos de codigo.
