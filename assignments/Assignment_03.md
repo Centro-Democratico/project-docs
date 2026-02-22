@@ -1,4 +1,19 @@
 # TAREA 3  
+## Pregunta 1: Daniel Alejandro Gomez Mancilla
+
+Me gustaría desempeñar un rol dentro del equipo que esté orientado a la organización y coordinación del trabajo, asegurando que los objetivos estén claros y que exista una buena comunicación entre los integrantes y el cliente. Me interesa participar en la definición de requerimientos y en el seguimiento del avance del proyecto, pues suelo ser quien está al pendiente del avance periódico del equipo de trabajo.
+
+Entre mis fortalezas considero que tengo pensamiento analítico y capacidad para entender cómo se conectan las distintas partes de un sistema. Además, ser políglota es una ventaja importante, ya que me permite comunicarme con personas de diferentes contextos y facilitar el diálogo con clientes o compañeros de equipo de diferentes partes del mundo. También me considero responsable, comprometido y dispuesto a trabajar en equipo, escuchando distintas perspectivas antes de tomar decisiones.
+
+Para mejorar como integrante de equipo necesito seguir desarrollando habilidades de liderazgo. También quiero desarrollar una lógica más sólida para analizar mejor los problemas y participar con mayor criterio en decisiones técnicas. Sé que no soy el mejor en términos de programación y lógica.
+
+### Pregunta 2:
+
+Quedamos en trabajar durante todo el semestre utilizando la metodología Scrum. Definiremos sprints de duración fija y, al inicio de cada uno, realizaremos una reunión de planificación donde seleccionaremos las tareas que nos comprometemos a completar. La idea es que cada tarea tenga una descripción clara y un responsable asignado. 
+Realizaremos reuniones breves de seguimiento al menos una vez por semana para compartir avances, identificar obstáculos y ajustar la planificación. Al finalizar cada sprint, llevaremos a cabo una revisión para evaluar los resultados obtenidos y una retrospectiva para analizar qué funcionó bien, qué debe mejorar y qué acciones concretas implementaremos en el siguiente ciclo, todo esto con ayuda de la participación de todos.
+En cuanto al uso de Git y GitHub, trabajaremos mediante ramas individuales para cada funcionalidad o corrección. No se realizarán cambios directos a la rama principal sin autorización o conocimiento de al menos 3 de los 5 miembros del grupo. Todo aporte deberá enviarse mediante pull request y al menos un integrante deberá revisar el código antes de aprobar el merge. Los mensajes de commit serán claros y descriptivos para seguir los modelos de buenas prácticas.
+Nos comprometemos a comunicar con anticipación cualquier dificultad que pueda afectar el cumplimiento de una tarea dentro del sprint. Las decisiones importantes se tomarán por consenso; en caso de desacuerdo, se evaluarán los argumentos. Priorizaremos las buenas prácticas de desarrollo.
+Finalmente, asumimos el compromiso de mantener una comunicación respetuosa, brindar retroalimentación constructiva y apoyar a cualquier integrante que enfrente dificultades técnicas. El cumplimiento depende del trabajo colaborativo y del compromiso de todos.
 ## Apartado 1: David Santiago Vargas Parra
 
 ### Pregunta 1:
@@ -47,3 +62,6 @@ Considero que mis fortalezas para aportar a un equipo es como base tanto mi comp
 
 ### Pregunta 3             ###
 Diría que mi principal debilidad es aveces no tener claro el como integrar mi codigo o el de mis compañeros al codigo principal, y la agilidad a la hora de hallár errores en sistemas complejos de codigo.
+
+# Evidencias Conflict:
+
