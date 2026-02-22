@@ -72,3 +72,7 @@ Finalmente, asumimos el compromiso de mantener una comunicación respetuosa, bri
 
 <img width="1293" height="651" alt="laura" src="https://github.com/user-attachments/assets/3f39377d-afd3-4f0a-8f92-a5e1df985244" />
 
+![1000364482](https://github.com/user-attachments/assets/1d879452-7ce5-4f26-b730-cc0de7ac2666)
+
+![1000364485](https://github.com/user-attachments/assets/e8d9dc5f-0584-4583-a3d7-9f41896f3c0c)
+
