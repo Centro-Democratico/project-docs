@@ -1,4 +1,4 @@
-### Apartado 1: David Santiago Vargas Parra
+# Apartado 1: David Santiago Vargas Parra
 
 ### Pregunta 1:
 Me gustaría enfocarme en el diseño y planeacion del software, de esta manera me podré asegurar de que se entregue un trabajo limpio y bien organizado y funcional, esto incluye saber interpretar las peticiones hechas tanto por el cliente como por el lider.
