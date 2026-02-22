@@ -1,0 +1,1 @@
+El rol que me gustaría desempeñar es el de mediador entre lo que necesita y quiere el cliente o usuario y lo que se manifiesta en el proyecto.
