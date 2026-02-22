@@ -1,4 +1,13 @@
-### TAREA 3                
+# TAREA 3  
+## Parte 1: Laura Sophia Castro Amaya
+
+Me gustaría desempeñar un rol orientado al diseño y arquitectura del sistema para definir cómo se estructuran las clases, los métodos y la lógica general del proyecto y también me interesa aportar en la documentación técnica
+
+Tengo buena base y experiencia con tecnologías como JavaScript, HTML, CSS, Node, Angular, MongoDB y SQL, soy organizada, analítica y constante, adicionalmente tengo facilidad para estructurar ideas, explicar procesos con claridad y mantener compromiso con las 
+entregas, por otro lado, se me facilita escribir documentación e informes técnicos bien estructurados
+
+Debo mejorar en la comunicación técnica breve y directa y optimizar el manejo del tiempo en problemas complejos, adicionalmente siento que todavía me falta desarrollar más liderazgo dentro de un equipo, especialmente en tomar iniciativa y asumir responsabilidades con más seguridad
+              
 
 ## Nael Fontaine
 
@@ -18,7 +27,7 @@ Para ser un mejor integrante de equipo, considero que debo mejorar mi comunicaci
 
 Además, quiero trabajar en mi gestión del tiempo, para organizar mejor mis tareas, estimar de manera más precisa el esfuerzo necesario y cumplir con los plazos de forma más eficiente.
 
-### HERRERA PARRA SANTIAGO ###
+## HERRERA PARRA SANTIAGO ###
 
 ### Pregunta 1             ###
 El rol que me gustaría desempeñar es el de mediador entre lo que necesita y quiere el cliente o usuario y lo que se manifiesta en el proyecto, pues considero que sé escuchar y ponerme en la perspectiva de quienes usarán nuestros proyectos.
