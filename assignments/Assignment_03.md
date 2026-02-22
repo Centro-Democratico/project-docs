@@ -1,4 +1,14 @@
 # TAREA 3  
+## Apartado 1: David Santiago Vargas Parra
+
+### Pregunta 1:
+Me gustaría enfocarme en el diseño y planeacion del software, de esta manera me podré asegurar de que se entregue un trabajo limpio y bien organizado y funcional, esto incluye saber interpretar las peticiones hechas tanto por el cliente como por el lider.
+
+### Pregunta 2:
+Me adapto fácil a nueva tecnología, por lo que cualquier nueva herramienta que debamos utilizar o que nos pueda ayudar es bienvenida, soy una persona creativa por lo que puedo ser util en algunos aspectos de planeación y estoy siempre dispuesto a recibir retroalimentación y por lo tanto intento no caer en los mismos errores.
+
+### Pregunta 3:
+Creo que puedo mejorar mi manejo del tiempo puesto que me es dificil planear una reunion del grupo en momentos donde a veces están mas disponibles mis compañeros, a veces puedo llegar a quedarme estancado cuando no puedo solucionar o resolver algo por no ser muy habilidoso programando.
 ## Parte 1: Laura Sophia Castro Amaya
 
 Me gustaría desempeñar un rol orientado al diseño y arquitectura del sistema para definir cómo se estructuran las clases, los métodos y la lógica general del proyecto y también me interesa aportar en la documentación técnica
