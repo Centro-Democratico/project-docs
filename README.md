@@ -3,6 +3,7 @@
 
 <img width="1536" height="696" alt="KYM" src="https://github.com/user-attachments/assets/06caf045-76a9-4506-ab8c-f33fd914c758" />
 ### Descripción:
+
 Software especializado en Bench-marking. Pretende analizar los componentes del dispositivo del usuario, comparar los componentes con los que ofrece el mercado y añadir su información a una lista/ranking dependiendo de sus características. También cuenta con una interfaz de conteo de fotogramas por segundo.
 
 > Centro Democrático (meme)
