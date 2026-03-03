@@ -1,5 +1,4 @@
-# project-docs
-# KnowYourMarks
+# project-docs - KnowYourMarks
 
 <img width="1536" height="696" alt="KYM" src="https://github.com/user-attachments/assets/06caf045-76a9-4506-ab8c-f33fd914c758" />
 ### Descripción:
